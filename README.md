@@ -1,4 +1,4 @@
-# SmartPracticeschool/SBSPS-Challenge-1241-AI-RECRUITER-SHORTLIST-A-SUITABLE-CANDIDATE-FOR-SPECIFIC-ROLE
+# SBSPS-Challenge-1241-AI-RECRUITER-SHORTLIST-A-SUITABLE-CANDIDATE-FOR-SPECIFIC-ROLE
 
 The typical customer care chatbot can answer simple questions, such as store locations and hours, directions, and maybe even making appointments. When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person.
 
@@ -15,3 +15,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 ***The link to the chatbot is:
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=43456d14-1cef-47e2-8e2b-73226c9afd30&serviceInstanceID=c77d6e19-4365-462e-9605-55c12e2d0460***
 
+***The link to the video uploaded in YouTube is:
+https://youtu.be/h3GDoHOx6bY***
